@@ -1,0 +1,17 @@
+nohup: ignoring input
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2023-08-31 09:37:10,826 [   1886]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Light - old: Light, new Light
+2023-08-31 09:37:11,244 [   2304]   WARN - #c.i.o.a.ActionStub - ActionGroup should be registered using <group> tag: id="WelcomeScreen.CreateDirectoryProject" class="com.jetbrains.python.newProject.steps.PyCharmNewProjectStep"
+
+Info  | RdCoroutineScope          | 24:DefaultDispatcher-worker-13 | RdCoroutineHost overridden 
+2023-08-31 09:37:32,271 [  23331]   WARN - #c.i.i.s.p.i.SharedIndexChunkConfigurationImpl - Chunk bundled-js-predefined-1d06a55b98c1-d5aed4438951-JavaScript-PY-232.8660.197 is incompatible and is not registered for project 'detrimental_analysis'
+2023-08-31 09:37:32,277 [  23337]   WARN - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Skipped 1 pre-built shared indexes: bundled-js-predefined-1d06a55b98c1-d5aed4438951-JavaScript-PY-232.8660.197
+2023-08-31 09:37:40,349 [  31409]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.openapi.projectRoots.Sdk
+2023-08-31 09:37:40,530 [  31590]   WARN - #c.i.o.a.i.Utils - 1172 ms to fillMenu@ProjectViewPopup
+2023-08-31 09:38:21,621 [  72681]   WARN - #c.i.o.o.e.ConfigurableCardPanel - auto-dispose 'Python Interpreter' id=com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable
+2023-08-31 09:39:47,209 [ 158269]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-08-31 09:39:47,210 [ 158270]   WARN - #c.j.p.s.s.PySkeletonRefresher - scipy.optimize._lsap_
+2023-08-31 09:39:48,087 [ 159147]   WARN - #c.j.p.s.s.PySkeletonRefresher - Some skeletons failed to generate
+2023-08-31 09:39:48,087 [ 159147]   WARN - #c.j.p.s.s.PySkeletonRefresher - scipy.optimize._lsap_
+2023-08-31 09:41:16,235 [ 247295]   WARN - CondaPythonLegacy - Can't find python path to use, will use conda run instead
+2023-08-31 09:42:54,461 [ 345521]   WARN - #c.i.u.x.Binding - no accessors for java.time.LocalTime

@@ -1,0 +1,6 @@
+instrument-1 5.0936531e-06
+instrument-2 0.00093119454
+instrument-3 1.8352394e-08
+instrument-4 0.00018533719
+instrument-5 0.0047241251
+instrument-6 7.154918e-06
